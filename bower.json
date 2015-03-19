@@ -1,0 +1,23 @@
+{
+  "name": "emberjs_tutorial",
+  "version": "0.0.0",
+  "authors": [
+    "JosiahSiegel <jsiegel@atni.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "resolutions": {
+    "ember": ">= 1.8.1 < 2.0.0",
+    "ember-data": "1.0.0-beta.15",
+    "handlebars": "3.0.0"
+  }
+}
